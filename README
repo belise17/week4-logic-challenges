@@ -1,0 +1,30 @@
+# Week 4 - JavaScript Logic Challenges
+
+**Student:** Belise Uwase
+
+## Description
+This project contains JavaScript challenges solved using functions, loops, conditions, and strings.
+
+## Challenges Completed
+- Round 1: Numbers and Conditions
+- Round 2: Strings
+- Round 3: Loops and Patterns
+- Boss Round: Passwords, Roman Numerals, and National ID Validation
+
+## How to Run
+Use Node.js:
+- `node round1.js`
+- `node round2.js`
+- `node round3.js`
+- `node boss.js`
+
+## Total Leaderboard Points
+- Round 1: 5 points
+- Round 2: 14 points
+- Round 3: 15 points
+- Boss Round: 15 bonus points
+
+**Total: 49 points**
+
+## What I Learned
+I learned to solve problems using JavaScript, write pseudocode, test functions, and use GitHub.
